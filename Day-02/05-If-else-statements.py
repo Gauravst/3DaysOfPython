@@ -1,4 +1,4 @@
-# if else
+# if else statements
 
 x = int(input("Enter a number :- "))
 
